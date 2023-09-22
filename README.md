@@ -1,13 +1,12 @@
-Team Leader
-Sipun-Gupta
- 
- "This is a vegan food website build with user-friendly responsive website"
- 
+Team Lead
  
 "NAME:-SIPUN GUPTA,
  UID:----22BCS80058,
  NUMBER:-----9937606708"
  
+ "This is a vegan food website build with user-friendly responsive website"
+ 
+ Team Member
 "NAME:HARSHIT CHAUHAN,
  UID:-------22BCS80054,
  NUMBER:-----8305850977"
